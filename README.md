@@ -6,4 +6,4 @@
 
 #### activities in partial fulfillment of program. 
 
-#### This week we are looking again at data from the NYPD Motor Vehicle Crash Data. We are grouping and then reanalyzing the data. The 
+#### This week we are looking again at data from the NYPD Motor Vehicle Crash Data. We are grouping and then reanalyzing the data. The grouping and aggegation of data will be used to combine groups that are similar and make the data more useable and simpler to understand. 
